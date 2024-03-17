@@ -1,0 +1,45 @@
+#cuadro1{ 
+    
+    border: 20px solid palevioletred;
+    margin-left: 80px;
+    padding-left: 30px;
+    background-image: url(paper.gif);
+    h1{color:plum;}
+    h1 {
+        font-size: 50px;
+       } 
+    p{color:palevioletred;} 
+    p {
+        font-family: Lucida; 
+       } 
+    
+
+}
+
+#cuadro2{
+    
+    background-color: violet;
+    margin-top: 100px;
+    border: 20px solid purple;
+    padding-top: 30px;
+    h1{color: purple;}
+    h1 {
+        font-size: 60px;
+       }
+    p{color: purple;}
+    p {
+        font-family: Lucida; 
+       }
+}
+
+#cuadro3{
+    background-color: blue;
+    margin-right: 100px;
+    border: 20px solid cornflowerblue; 
+    padding-right: 40px;
+
+    p{color: blanchedalmond;} width: 60px; 
+    p {
+        font-family: Lucida; 
+       }  
+}
